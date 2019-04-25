@@ -1,0 +1,10 @@
+{
+  "name": "portfolio_hugo_theme",
+  "version": "1.0.0",
+  "description": "Hugo Theme for Illustration & Creative Portfolios",
+  "main": "index.html",
+  "scripts": {
+  },
+  "author": "Amy Carrigan",
+  "license": "MIT"
+}
